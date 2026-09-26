@@ -5,7 +5,7 @@ volatile unsigned int adc_raw_value = 0;
 volatile float v_adc = 0.0;
 volatile float v_bateria = 0.0;
 
-// Configuración básica del ADC10
+// Configuración del ADC10
 void init_ADC(void) {
     ADC10AE0 |= BIT0;                          // Habilita entrada analógica en P1.0 (A0)
     ADC10CTL0 = SREF_1 + ADC10SHT_2 + ADC10ON; // Ref interna 2.5V, 16 ciclos muestreo, ADC ON
@@ -14,7 +14,7 @@ void init_ADC(void) {
     __delay_cycles(1000);                      // Espera a que la referencia se estabilice
 }
 
-// Función ligera de envío de texto por UART (tu ejemplo)
+// Función de envío de texto por UART 
 void ser_output(char *str) {
     while(*str != 0) {
         while (!(IFG2 & UCA0TXIFG));
@@ -50,11 +50,11 @@ void float_to_string(float val, char *buffer) {
 void main(void) {
     WDTCTL = WDTPW | WDTHOLD;
 
-    // Calibración del reloj a 1MHz (idéntico a tu ejemplo)
+    // Calibración del reloj a 1MHz
     BCSCTL1 = CALBC1_1MHZ;
     DCOCTL = CALDCO_1MHZ;
 
-    // Configuración UART a 19200 baudios (idéntico a tu ejemplo)
+    // Configuración UART a 19200 baudios
     P1SEL = BIT1 | BIT2;
     P1SEL2 = BIT1 | BIT2;
     
