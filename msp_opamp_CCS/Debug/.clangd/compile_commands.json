@@ -1,0 +1,837 @@
+[
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm12.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm12b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm12i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm14.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm14b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm14i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm16.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm16b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm16i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm18.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm18b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm18i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm20.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm20b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm20i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm22.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm22b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm22i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm24.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm24b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm24i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm26.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm26b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm26i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm28.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm28b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm28i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm30.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm30b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm30i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm32.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm32b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm32i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm34.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm34b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm34i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm36.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm36b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm36i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm38.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm38b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm38i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm40.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm40b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm40i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm42.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm42b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm42i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm44.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm44b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm44i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm46.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm46b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm46i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm48.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm48b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcm48i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc12.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc14.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc16.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc18.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc20.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc22.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc24.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc26.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc28.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc30.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc32.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc34.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc36.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc38.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc40.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc42.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc44.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc46.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmsc48.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss12.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss12b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss12i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss14.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss14b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss14i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss16.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss16b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss16i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss18.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss18b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss18i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss20.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss20b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss20i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss22.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss22b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss22i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss24.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss24b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss24i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss26.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss26b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss26i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss28.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss28b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss28i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss30.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss30b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss30i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss32.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss32b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss32i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss34.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss34b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss34i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss36.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss36b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss36i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss38.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss38b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss38i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss40.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss40b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss40i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss42.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss42b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss42i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss44.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss44b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss44i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss46.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss46b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss46i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss48.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss48b.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmss48i.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt12.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt14.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt16.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt18.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt20.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt22.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt24.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt26.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt28.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt30.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt32.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt34.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt36.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt38.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt40.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt42.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt44.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt46.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontcmtt48.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts/fontfixed6x8.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/button.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/checkbox.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/circle.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/context.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/display.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/image.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/imageButton.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/line.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/radioButton.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/rectangle.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib/string.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Lcd_Driver/Template_Driver.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/main.c"
+   },
+   {
+      "directory" : "C:/Users/herhe/workspace_ccstheia/msp_opamp/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2051/ccs/ccs_base/msp430/include\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/grlib\" -I\"C:/Users/herhe/workspace_ccstheia/msp_opamp/GrLib/fonts\" -I\"C:/ti/ccs2051/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
+      "file"      : "C:/Users/herhe/workspace_ccstheia/msp_opamp/system_pre_init.c"
+   }
+]
